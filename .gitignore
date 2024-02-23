@@ -1,0 +1,10 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment variable file
+.env
+
+/package-lock.json
+/client/node_modules
+/client/package-lock.json
+/client/.env
